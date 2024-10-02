@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Montserrat"),
+             url("Montserrat-Regular.woff2") format("woff2"),
+             url("Montserrat-Regular.woff") format("woff");
+}
+@font-face {
+    font-family: "Georgia", serif;
+    font-style: normal;
+    src: local("Georgia"),
+            url("NotoSansGeorgian-Regular.woff2") format("woff2"),
+            url("NotoSansGeorgian-Regular.woff") format("woff");
+}
